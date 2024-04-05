@@ -1,0 +1,63 @@
+body{
+    background-color: #323232;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+ 
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color:  #641E16 ;
+    
+}
+ img{
+    width: 300px;
+    height: 320px;
+    border-radius: 12px;
+ }
+h2{
+    color:  #7B241C ;
+    font-weight: 900;
+    font-size: 20px;
+}
+p{
+    color: #7B7D7D;
+    font-weight: 900;
+}
+section:hover{
+    box-shadow: 1px 2px 1px 2px #626567 ;
+    cursor: pointer;
+    transition: .5s;
+    
+}
+
+hgroup{
+    background-color: #202020;
+    border-radius: 7px;
+    
+}
+section hgroup .estreno{
+    font-size: 17px;
+    font-weight: bold;
+}
+section hgroup .sig-estreno{
+    color:  #7B241C  ;
+    font-weight: 900;
+
+}
+footer {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 30px;
+    
+
+}
+
+footer a{
+    color: whitesmoke;
+
+}
